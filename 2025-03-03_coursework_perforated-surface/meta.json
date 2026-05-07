@@ -1,0 +1,16 @@
+{
+  "title": {
+    "zh": "镂空表皮研究",
+    "en": "Perforated-Surface Study",
+    "ja": "透かし表皮の研究"
+  },
+  "summary": {
+    "zh": "Rhino 里的小型镂空表皮研究。",
+    "en": "A small perforated-surface study built in Rhino.",
+    "ja": "Rhino で組んだ小さな透かし表皮の研究。"
+  },
+  "tags": [
+    "facade",
+    "rhino"
+  ]
+}
